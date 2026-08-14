@@ -91,13 +91,13 @@ layout: home
   </p>
 
   <p>
-    <strong>Mara Haslam</strong>
-    (<a href="https://www.su.se/english/profiles/mhasl-1.190731">2011 PhD</a>)
+    <strong>(<a href="https://www.su.se/english/profiles/mhasl-1.190731">Mara Haslam</a>)</strong> 2011 PhD
+    <a href="https://www.su.se/english/profiles/mhasl-1.190731">The effect of perceptual training including required lexical access and meaningful linguistic context on L2 phonology</a>
   </p>
 
   <p>
     <strong>Jennifer Leparmentier</strong>
-    (<a href="https://drive.google.com/file/d/1pypMC4kk5OA0PoJYOb1yxYe044hVDg_P/view?usp=sharing">2007 MA</a>)
+    <a href="https://drive.google.com/file/d/1pypMC4kk5OA0PoJYOb1yxYe044hVDg_P/view?usp=sharing">2007 MA</a>
   </p>
 
   <p>
