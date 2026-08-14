@@ -27,28 +27,69 @@ layout: home
 </div>
 
 <section id="students">
-Julia Vonessen ([2020 BA Honors](https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing))
 
-[Catherine E. Showalter](https://scholar.google.com/citations?user=17scVb8AAAAJ&hl=en&oi=ao)([2012 MA](https://drive.google.com/file/d/1uVO8iK54AHofqmD1oEaE8Ve3mrc8dJt5/view?usp=sharing),[2018 PhD](https://drive.google.com/file/d/18hX7978CZkJvScmGIURmPRp8AM3r0aQL/view?usp=sharing))
+  <h2>Students</h2>
 
-Taylor Anne Barriuso([2018 PhD](https://drive.google.com/file/d/17PI0Iv6r7G8umbqQz07b3iSkhFGn8ENx/view?usp=sharing))
+  <h3>Former Students</h3>
 
-Eve Olson ([2017 BA Honors](https://drive.google.com/file/d/1EK0st8s7gVlEWVnE478a4z8AEdRycXGw/view?usp=sharing))
+  <p>
+    <strong>Julia Vonessen</strong> (<a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">2020 BA Honors</a>)
+  </p>
 
-Joshua Jackson ([2017 MA](https://drive.google.com/file/d/1LfMqxOdmaapDPJ4mBeLGpJdMHqwBatCd/view?usp=sharing))
+  <p>
+    <strong>Catherine E. Showalter</strong>
+    (<a href="https://scholar.google.com/citations?user=17scVb8AAAAJ&hl=en&oi=ao">2012 MA</a>,
+    <a href="https://drive.google.com/file/d/18hX7978CZkJvScmGIURmPRp8AM3r0aQL/view?usp=sharing">2018 PhD</a>)
+  </p>
 
-Kelsey Brown ([2015 MA](https://drive.google.com/file/d/1HhgYig5BkPwQhtJOW_1Zs6pBVBUaprYJ/view?usp=sharing))
+  <p>
+    <strong>Taylor Anne Barriuso</strong>
+    (<a href="https://drive.google.com/file/d/17PI0Iv6r7G8umbqQz07b3iSkhFGn8ENx/view?usp=sharing">2018 PhD</a>)
+  </p>
 
-Amanda Rabideau ([2014 MA](https://drive.google.com/file/d/178_l8T9fKg6vyfUoPzTm2q2DbxkqqA4m/view?usp=sharing))
+  <p>
+    <strong>Eve Olson</strong>
+    (<a href="https://drive.google.com/file/d/1EK0st8s7gVlEWVnE478a4z8AEdRycXGw/view?usp=sharing">2017 BA Honors</a>)
+  </p>
 
-[Asmaa Shehata](https://modernlanguages.olemiss.edu/asmaa-shehata/)([2013 PhD](https://drive.google.com/file/d/1EbUWY9fcuhNAnMvb5AkOpkzkZthdddcY/view?usp=sharing))
+  <p>
+    <strong>Joshua Jackson</strong>
+    (<a href="https://drive.google.com/file/d/1LfMqxOdmaapDPJ4mBeLGpJdMHqwBatCd/view?usp=sharing">2017 MA</a>)
+  </p>
 
-Jenia Ivanova ([2011 MA](https://drive.google.com/file/d/1vYMp5E-65YOKaWV3CCWNowQv1-6CvU3w/view?usp=sharing))
+  <p>
+    <strong>Kelsey Brown</strong>
+    (<a href="https://drive.google.com/file/d/1HhgYig5BkPwQhtJOW_1Zs6pBVBUaprYJ/view?usp=sharing">2015 MA</a>)
+  </p>
 
-[Mara Haslam](https://www.su.se/english/profiles/mhasl-1.190731)([2011 PhD](https://drive.google.com/file/d/1eV1OWq8Y0X_FEseinxOQMEeolES3N6om/view?usp=sharing))
+  <p>
+    <strong>Amanda Rabideau</strong>
+    (<a href="https://drive.google.com/file/d/178_l8T9fKg6vyfUoPzTm2q2DbxkqqA4m/view?usp=sharing">2014 MA</a>)
+  </p>
 
-Jennifer Leparmentier ([2007 MA](https://drive.google.com/file/d/1pypMC4kk5OA0PoJYOb1yxYe044hVDg_P/view?usp=sharing))
+  <p>
+    <strong>Asmaa Shehata</strong>
+    (<a href="https://modernlanguages.olemiss.edu/asmaa-shehata/">2013 PhD</a>)
+  </p>
 
-Zac Rasmussen ([2007 Honors BA](https://drive.google.com/file/d/1Nkdb5AP7_o3XUyERn96XLw_2NhXeMzv4/view?usp=sharing))
+  <p>
+    <strong>Jenia Ivanova</strong>
+    (<a href="https://drive.google.com/file/d/1vYMp5E-65YOKaWV3CCWNowQv1-6CvU3w/view?usp=sharing">2011 MA</a>)
+  </p>
+
+  <p>
+    <strong>Mara Haslam</strong>
+    (<a href="https://www.su.se/english/profiles/mhasl-1.190731">2011 PhD</a>)
+  </p>
+
+  <p>
+    <strong>Jennifer Leparmentier</strong>
+    (<a href="https://drive.google.com/file/d/1pypMC4kk5OA0PoJYOb1yxYe044hVDg_P/view?usp=sharing">2007 MA</a>)
+  </p>
+
+  <p>
+    <strong>Zac Rasmussen</strong>
+    (<a href="https://drive.google.com/file/d/1Nkdb5AP7_o3XUyERn96XLw2NhXeMzv4/view?usp=sharing">2007 Honors BA</a>)
+  </p>
+
 </section>
-
