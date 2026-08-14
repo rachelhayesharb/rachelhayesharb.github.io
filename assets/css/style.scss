@@ -113,9 +113,11 @@ p {
   margin-bottom: 0.5rem;
 }
 
-a {
+a,
+a:visited,
+a:hover,
+a:active {
   color: #890000;
-  text-decoration: none;
 }
 
 a:hover {
