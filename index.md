@@ -5,13 +5,17 @@ layout: home
 <div class="intro">
 
   <div class="headshot-column">
-    <img src="{{ "/assets/img/headshot.jpg" | relative_url }}" alt="Rachel Hayes-Harb">
+    <img src="{{ "/assets/img/headshot.jpg" | relative_url }}" alt="headshot of Rachel Hayes-Harb">
+    <p class="headshot-caption">
+  Professor of Linguistics<br>
+  University of Utah
+</p>
   </div>
 
   <div class="intro-text">
 
     <p>
-      I am a Professor of Linguistics at the University of Utah. My research focuses on a variety of phenomena related to the acquisition of the phonology of a new language by adult learners, specifically the development of phoneme inventories and phonolexical structure. My research typically involves experimental investigations of the perception of new sounds and words, and the influence of various types of linguistic experience on adult phonological development.
+      I am a Professor of [Linguistics] (https://linguistics.utah.edu) at the University of Utah. My research focuses on a variety of phenomena related to the acquisition of the phonology of a new language by adult learners, specifically the development of phoneme inventories and phonolexical structure. My research typically involves experimental investigations of the perception of new sounds and words, and the influence of various types of linguistic experience on adult phonological development.
     </p>
 
     <p>
@@ -31,8 +35,11 @@ layout: home
   <h2>Student Thesess</h2>
 
   <p>
-    <strong>Julia Vonessen</strong> (<a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">2020 BA Honors</a>)
- 
+    <strong>Julia Vonessen</strong> 
+    (<a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">2020 BA Honors</a>)
+  </p>
+    
+ <p>
     <strong>Catherine E. Showalter</strong>
     (<a href="https://scholar.google.com/citations?user=17scVb8AAAAJ&hl=en&oi=ao">2012 MA</a>,
     <a href="https://drive.google.com/file/d/18hX7978CZkJvScmGIURmPRp8AM3r0aQL/view?usp=sharing">2018 PhD</a>)
