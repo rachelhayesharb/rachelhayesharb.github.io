@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+# Teaching - page in progress
+
 -   Linguistics Capstone for Undergraduate Majors:
 
     -   [Check out the Fall 2022 Capstone class's preregistration of our replication study of Boduch-Grabka & Lev-Ari 2021!](https://osf.io/ry8hm)
