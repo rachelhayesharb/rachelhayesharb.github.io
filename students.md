@@ -1,3 +1,10 @@
+---
+layout: default
+title: Research
+permalink: /research/
+---
+[Learn about current students in the Speech Acquisition Lab.](https://speechlab.utah.edu)
+
 ## Student Theses
 
 **[Julia Vonessen](https://www.linkedin.com/in/jules-vonessen/)** (Honors BA 2020) -  
