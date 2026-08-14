@@ -3,12 +3,12 @@ layout: default
 title: Students
 permalink: /students/
 ---
-[Learn about current students in the Speech Acquisition Lab.](https://speechlab.utah.edu)
 
+## Prospective Students
 Are you interested in joining the Speech Acquisition Lab at the University of Utah? [Prospective graduate students](https://sites.google.com/view/speech-acquisition-lab/study-multilingual-phonology-at-the-u?authuser=0) - [Current University of Utah students](https://sites.google.com/view/speech-acquisition-lab/join-the-lab?authuser=0)
 
-
 ## Student Theses
+[Learn about current students in the Speech Acquisition Lab.](https://speechlab.utah.edu)
 
 **[Julia Vonessen](https://www.linkedin.com/in/jules-vonessen/)** (Honors BA 2020) -  
 *[The relationship between listener attitudes and the comprehension of nonnative-accented speech](https://collections.lib.utah.edu/details?id=2964398&hl=The+relationship+between+listener+attitudes+and+the+comprehension+of+non-native+speech)*
