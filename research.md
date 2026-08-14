@@ -8,7 +8,18 @@ The majority of my scholarship has focused on adults’ ability to establish and
 
 See my (recent-ish) [CV](https://rachelhayesharb.github.io/RHH_CV.pdf) for a fuller list of presentations and publications.
 
-## Selected Presentations
+## Selected Recent Presentations
+Hayes-Harb, R. **(2024).** Native speaker ideology and replication research. [*1st ROLE Collective Symposium*](https://rolecollective.github.io/ROLESymposium/). April 12, 2024. Invited. [Slides](https://osf.io/jacv6).
+
+Kutlu, E. & R. Hayes-Harb. **(2023).** Promoting an equitable and just linguistics through scholarly publishing and editorial practices. Penn State Research Methods Workshops for Applied Linguists. October. Invited. [Slides](https://docs.google.com/presentation/d/1njd8Z0sggfiLLFAC0ZupNHaLIcwrSLO94Cr6Hfcn0xI/edit?usp=sharing).
+
+Tripp, A. & R. Hayes-Harb. **(2023).** *Care-full and reproducible research: Teaching research skills and ethics to undergraduate researchers using critical replication studies.* Meeting of the Acoustical Society of America Special Session on Infusing Social Justice in Speech and Hearing Acoustics Pedagogy: Principles and Case Studies, May. Invited. [Abstract](https://pubs.aip.org/asa/jasa/article/153/3_supplement/A212/2885938/Care-full-and-reproducible-research-Teaching), [slides](https://osf.io/nqu4y), [session information](https://z.umn.edu/8n3i).
+
+Hayes-Harb, R. 2022. **Methodological issues in the study of language learners’ perceptual and phonolexical representation and processing.** Bilingual Lexical Representations Workshop. IMÉRA, Marseille, France, 3 May. [Link to presentation slides](https://osf.io/x3ysc/).
+
+Hayes-Harb, R. & Barrios, S. 2022. **Investigating the phonological structure of the L2 lexicon: Designing and conducting experiments.** Workshop at the 12th Annual Conference on Pronunciation in Second Language Learning and Teaching. St. Catharines, Ontario, Canada, August. [Link to workshop materials](https://osf.io/hzn8m/wiki/home/).
+
+Hayes-Harb, R. 2022. **The acquisition, representation, and procesing of Arabic contrasts by English speakers.** Keynote presentation at the 2022 Arabic Applied Linguistics Conference. Ann Arbor, Michigan, US, 19–20 November. [Link to presentation slides](https://osf.io/7apbw/)
 
 ## Selected Publications
 ### Metascience
