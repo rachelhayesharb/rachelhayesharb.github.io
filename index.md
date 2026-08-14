@@ -42,9 +42,10 @@ layout: home
   </p>
     
  <p>
-    <strong>Catherine E. Showalter</strong>
+    <strong>Catherine E. Showalter</strong> (2018 PhD)<br>
     (<a href="https://scholar.google.com/citations?user=17scVb8AAAAJ&hl=en&oi=ao">2012 MA</a>,
-    <a href="https://drive.google.com/file/d/18hX7978CZkJvScmGIURmPRp8AM3r0aQL/view?usp=sharing">2018 PhD</a>)
+    <a href="https://collections.lib.utah.edu/detailsid=1494252&hl=Orthographic+input+familiarity+and+congruence+effects+on+phono-lexical+acquisition+of+Russian+by+native+speakers+of+English">Orthographic input familiarity and congruence effects on phono-lexical acquisition of Russian by native speakers of English<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/95d500a0-2b42-4aaa-85ff-2f29debf33f1" />
+</a>)
   </p>
 
   <p>
@@ -75,6 +76,13 @@ layout: home
   <p>
     <strong>Asmaa Shehata</strong>
     (<a href="https://modernlanguages.olemiss.edu/asmaa-shehata/">2013 PhD</a>)
+  </p>
+
+   <p>
+    <strong>Catherine E. Showalter</strong> (2018 PhD)<br>
+    (<a href="https://scholar.google.com/citations?user=17scVb8AAAAJ&hl=en&oi=ao">2012 MA</a>,
+    
+</a>)
   </p>
 
   <p>
