@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: default
+title: Research
 permalink: /research/
 ---
 
-# Research & Publications
 The majority of my scholarship has focused on adults’ ability to establish and to use lexical representations in a new language. The involvement of the lexicon (narrowly defined here as a set of mappings between meanings and phonological forms) is central to my work: Unlike research focused primarily on speech production and perception in their own right, I investigate these phenomena primarily as they function in the service of distinguishing lexical items. In an effort to better understand the nature of learners’ phonolexical structure, I am particularly interested in the sources of information that contribute to the phonological content of lexical representations—that is, the role that various types of input play in adult language learning. Most recently, my collaborators and I are interested in methodological issues in the study of word learning, representation, and processing, as well as the role of social cognition in adult language learning.
 
 ## Selected Presentations
