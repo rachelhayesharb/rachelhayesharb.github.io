@@ -4,6 +4,8 @@ title: Students
 permalink: /students/
 ---
 
+# Students
+
 ## Prospective Students and Postdocs
 I mentor/supervise graduate student and postdocs who are interested in becoming researchers in the empirical and theoretical foci of the Speech Acquisition Lab. I do not mentor/supervise students outside of these foci. [_Before reaching out to inquire about mentoring/supervsion, please study this information carefully_](https://sites.google.com/view/speech-acquisition-lab/study-multilingual-phonology-at-the-u?authuser=0).
 
