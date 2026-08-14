@@ -81,6 +81,11 @@ body {
   font-size: 1rem;
 }
 
+.nav-links {
+  display: flex;
+  gap: 2.5rem;
+}
+
 .main-nav a {
   color: #890000;
   text-decoration: none;
