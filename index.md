@@ -11,7 +11,7 @@ layout: home
   Professor of <a href="https://linguistics.utah.edu/">Linguistics</a><br>
   Associate Dean, <a href="https://honors.utah.edu/">Honors College</a><br>
   University of Utah<br>
-  <em>I use she pronouns<\em>
+  <em>I use she pronouns</em>
 </p>
   </div>
 
@@ -48,7 +48,7 @@ I also serve as the Associate Dean of the <a href="https://honors.utah.edu/">Hon
   <strong>Asmaa Shehata</strong></a> (PhD 2013) - 
   <em><a href="https://doi.org/doi:10.26053/0H-Y93D-SQ00">When variability matters in second language word learning: Talker variability and task type effects</a></em></p>
 <p><a href="https://scholar.google.com/citations?hl=en&amp;user=H6o2VVgAAAAJ"><strong>Mara Haslam</strong></a> (MA 2008, PhD 2012) - <em><a href="https://www.proquest.com/docview/908415020?pq-origsite=gscholar&amp;fromopenview=true&amp;sourcetype=Dissertations%20&amp;%20Theses">The effect of perceptual training including required lexical access and meaningful linguistic context on L2 phonology</a></em></p>
-<p><a href="https://scholar.google.co.za/citations?hl=en&amp;user=KWQ2CP4AAAAJ\"><strong>Catherine Showalter</strong></a> (MA 2012) - <em><a href="https://doi.org/doi:10.26053/0H-AD1K-FQG0">The influence of novel orthographic information on second language word learning: the case of native English speakers learning Arabic</a></em></p>
+<p><a href="https://www.linkedin.com/in/catherine-showalter/"><strong>Catherine Showalter</strong></a> (MA 2012) - <em><a href="https://doi.org/doi:10.26053/0H-AD1K-FQG0">The influence of novel orthographic information on second language word learning: the case of native English speakers learning Arabic</a></em></p>
 <p><strong>Jenia Ivanova</strong> (MA 2011) - 
   <em><a href="https://collections.lib.utah.edu/details?id=194719&amp;hl=title_t%3A%28The+OR+effect+OR+of+OR+perceptual+OR+training+OR+including+OR+required+OR+lexical+OR+access+OR+and+OR+meaningful+OR+linguistic+OR+context+OR+on+OR+L2+OR+phonology%29">The effects of teacher talk on L2 learners' comprehension</a></em></p>
 <p><strong><a href="https://www.linkedin.com/in/sadiedickman/">Sadie Dickman</a></strong> (MA 2009) - 
