@@ -107,6 +107,13 @@ body {
   line-height: 1;
 }
 
+.nav-icons img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  display: block;
+}
+
 .main-nav a {
   color: #890000;
   text-decoration: none;
