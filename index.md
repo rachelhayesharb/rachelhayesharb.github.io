@@ -26,3 +26,7 @@ layout: home
 
 </div>
 
+<section id="students">
+  {% include students.html %}
+</section>
+
