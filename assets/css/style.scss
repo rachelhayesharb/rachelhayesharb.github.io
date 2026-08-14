@@ -59,3 +59,9 @@ a:hover {
 .main-nav a:hover {
   text-decoration: underline;
 }
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem 0 1.5rem;
+}
