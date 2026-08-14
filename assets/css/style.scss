@@ -43,3 +43,19 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.main-nav {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+  font-size: 0.95rem;
+}
+
+.main-nav a {
+  color: #315f72;
+  text-decoration: none;
+}
+
+.main-nav a:hover {
+  text-decoration: underline;
+}
