@@ -4,7 +4,11 @@ layout: home
 
 # Rachel Hayes Harb
 
-[Research](#) · [About](#) · [CV](#)
+<nav class="main-nav">
+  <a href="#research">Research</a>
+  <a href="#about">About</a>
+  <a href="#cv">CV</a>
+</nav>
 
 I am a Professor of Linguistics at the University of Utah. My research focuses on a variety of phenomena related to the acquisition of the phonology of a new language by adult learners, specifically the development of phoneme inventories and phonolexical structure. My research typically involves experimental investigations of the perception of new sounds and words, and the influence of various types of linguistic experience on adult phonological development.
 
