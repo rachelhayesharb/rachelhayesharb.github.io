@@ -7,11 +7,11 @@ layout: home
   <div class="headshot-column">
     <img src="{{ "/assets/img/headshot.jpg" | relative_url }}" alt="headshot of Rachel Hayes-Harb">
     <p class="headshot-caption">
-      **Rachel Hayes-Harb**
+    <strong>Rachel Hayes-Harb</strong>
   Professor of <a href="https://linguistics.utah.edu/">Linguistics</a><br>
   Associate Dean, <a href="https://honors.utah.edu/">Honors College</a><br>
   University of Utah<br>
-  _I use she pronouns_
+  <em>I use she pronouns<\em>
 </p>
   </div>
 
