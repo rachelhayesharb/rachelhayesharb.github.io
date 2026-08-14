@@ -98,3 +98,19 @@ layout: home
   </p>
 
 </section>
+
+<div><style>body, div { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; }
+code { font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; background-color: rgba(27,31,35,0.05); padding: 0.2em 0.4em; border-radius: 3px; font-size: 85%; }
+pre { background-color: #f6f8fa; padding: 16px; border-radius: 6px; overflow: auto; line-height: 1.45; }
+pre code { background-color: transparent; padding: 0; border-radius: 0; font-size: 100%; }
+blockquote { border-left: 4px solid #dfe2e5; padding: 0 16px; color: #6a737d; margin: 0 0 16px 0; }
+table { border-collapse: collapse; margin: 16px 0; }
+table th, table td { border: 1px solid #dfe2e5; padding: 6px 13px; }
+table th { font-weight: 600; background-color: #f6f8fa; }
+img { max-width: 100%; }
+h1, h2, h3, h4, h5, h6 { margin-top: 24px; margin-bottom: 16px; font-weight: 600; line-height: 1.25; }
+h1 { font-size: 2em; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
+h2 { font-size: 1.5em; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
+hr { border: none; border-top: 1px solid #e1e4e8; margin: 24px 0; }
+a { color: #0366d6; text-decoration: none; }</style><p><strong>Zachary Rasmussen</strong> (Honors BA 2007) - <em>Phonetic approximation and the interlanguage speech intelligibility benefit hypothesis: Arabic accented English</em></p>
+</div>
