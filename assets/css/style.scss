@@ -3,6 +3,40 @@
 
 @import "minima";
 
+.intro {
+  display: block;
+}
+
+.headshot {
+  float: left;
+  width: 150px;
+  margin: 0 2rem 1rem 0;
+}
+
+.headshot img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.intro-text {
+  font-size: 1rem;
+}
+
+.intro::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 700px) {
+  .headshot {
+    float: none;
+    width: 150px;
+    margin: 0 auto 2rem;
+  }
+}
+
 body {
   color: #333;
   line-height: 1.7;
