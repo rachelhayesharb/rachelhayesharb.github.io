@@ -7,7 +7,7 @@ permalink: /students/
 # Students
 
 ## Prospective Students and Postdocs
-I mentor/supervise graduate students and postdocs who are interested in becoming researchers in the empirical and theoretical foci of the [Speech Acquisition Lab](https://speechlab.utah.edu). I do not mentor/supervise students outside of these foci. _Before reaching out, please study our [advice for prospective students seeking mentoring/supervsion in the Speech Acquisition Lab](https://sites.google.com/view/speech-acquisition-lab/study-multilingual-phonology-at-the-u?authuser=0) carefully_.
+I mentor/supervise graduate students and postdocs who are interested in becoming researchers in the empirical and theoretical foci of the [Speech Acquisition Lab](https://speechlab.utah.edu). I do not mentor/supervise students outside of these foci. _Before reaching out, please study our [advice for prospective graduate students](https://sites.google.com/view/speech-acquisition-lab/study-multilingual-phonology-at-the-u?authuser=0) carefully_.
 
 Current University of Utah students are invited to learn more about the Speech Acquisition Lab by visiting our [join the lab](https://sites.google.com/view/speech-acquisition-lab/join-the-lab?authuser=0) page.
 
