@@ -28,15 +28,11 @@ layout: home
 
 <section id="students">
 
-  <h2>Students</h2>
-
-  <h3>Former Students</h3>
+  <h2>Student Thesess</h2>
 
   <p>
     <strong>Julia Vonessen</strong> (<a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">2020 BA Honors</a>)
-  </p>
-
-  <p>
+ 
     <strong>Catherine E. Showalter</strong>
     (<a href="https://scholar.google.com/citations?user=17scVb8AAAAJ&hl=en&oi=ao">2012 MA</a>,
     <a href="https://drive.google.com/file/d/18hX7978CZkJvScmGIURmPRp8AM3r0aQL/view?usp=sharing">2018 PhD</a>)
