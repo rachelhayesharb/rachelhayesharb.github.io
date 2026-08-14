@@ -35,8 +35,9 @@ layout: home
   <h2>Student Thesess</h2>
 
   <p>
-    <strong>Julia Vonessen</strong> 
-    (<a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">2020 BA Honors</a>)
+    <strong>Julia Vonessen</strong> (2020 BA Honors) - 
+    <a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">The relationship between listener attitudes and the comprehension of nonnative-accented speech</a>
+    
   </p>
     
  <p>
