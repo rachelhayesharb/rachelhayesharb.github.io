@@ -7,7 +7,8 @@ layout: home
   <div class="headshot-column">
     <img src="{{ "/assets/img/headshot.jpg" | relative_url }}" alt="headshot of Rachel Hayes-Harb">
     <p class="headshot-caption">
-  Professor of Linguistics<br>
+  Professor of <a href="https://linguistics.utah.edu/">Linguistics</a><br>
+  Associate Dean, <a href="https://honors.utah.edu/">Honors College</a>
   University of Utah
 </p>
   </div>
@@ -15,7 +16,7 @@ layout: home
   <div class="intro-text">
 
     <p>
-      I am a Professor of [Linguistics] (https://linguistics.utah.edu) at the University of Utah. My research focuses on a variety of phenomena related to the acquisition of the phonology of a new language by adult learners, specifically the development of phoneme inventories and phonolexical structure. My research typically involves experimental investigations of the perception of new sounds and words, and the influence of various types of linguistic experience on adult phonological development.
+      I am a Professor of <a href="https://linguistics.utah.edu/">Linguistics</a> at the University of Utah. My research focuses on a variety of phenomena related to the acquisition of the phonology of a new language by adult learners, specifically the development of phoneme inventories and phonolexical structure. My research typically involves experimental investigations of the perception of new sounds and words, and the influence of various types of linguistic experience on adult phonological development.
     </p>
 
     <p>
@@ -35,7 +36,7 @@ layout: home
   <h2>Student Thesess</h2>
 
   <p>
-    <strong>Julia Vonessen</strong> (2020 BA Honors) - 
+    <strong>Julia Vonessen</strong> (2020 BA Honors)<br> 
     <a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">The relationship between listener attitudes and the comprehension of nonnative-accented speech</a>
     
   </p>
