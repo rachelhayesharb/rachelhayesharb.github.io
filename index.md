@@ -36,8 +36,8 @@ layout: home
   <h2>Student Thesess</h2>
 
   <p>
-    <strong>Julia Vonessen</strong> (2020 BA Honors)<br> 
-    <a href="https://drive.google.com/file/d/1TQ7kcDrAAvvGxCng2QyvFoWA8NvfKxrG/view?usp=sharing">The relationship between listener attitudes and the comprehension of nonnative-accented speech</a>
+    <strong><a href+https://www.linkedin.com/in/jules-vonessen/">Julia Vonessen</strong> (2020 BA Honors)<br> 
+    <a href="https://collections.lib.utah.edu/details?id=2964398&hl=The+relationship+between+listener+attitudes+and+the+comprehension+of+nonnative-accented+speech">The relationship between listener attitudes and the comprehension of nonnative-accented speech</a>
     
   </p>
     
