@@ -1,0 +1,45 @@
+---
+---
+
+@import "minima";
+
+body {
+  color: #333;
+  line-height: 1.7;
+}
+
+.wrapper {
+  max-width: 850px;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title {
+  display: none;
+}
+
+.page-content {
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 1.5rem;
+}
+
+a {
+  color: #315f72;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
