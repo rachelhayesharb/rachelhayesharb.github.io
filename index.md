@@ -9,7 +9,7 @@ layout: home
     <p class="headshot-caption">
   Professor of <a href="https://linguistics.utah.edu/">Linguistics</a><br>
   Associate Dean, <a href="https://honors.utah.edu/">Honors College</a><br>
-  University of Utah
+  University of Utah<br>
   I use _she_ pronouns
 </p>
   </div>
