@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-permalink: /research/
+title: Students
+permalink: /students/
 ---
 [Learn about current students in the Speech Acquisition Lab.](https://speechlab.utah.edu)
 
