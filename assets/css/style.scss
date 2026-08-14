@@ -4,36 +4,31 @@
 @import "minima";
 
 .intro {
-  display: block;
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 3rem;
+  align-items: start;
 }
 
-.headshot {
-  float: left;
+.headshot-column img {
   width: 150px;
-  margin: 0 2rem 1rem 0;
-}
-
-.headshot img {
-  width: 100%;
   height: auto;
   display: block;
 }
 
-.intro-text {
-  font-size: 1rem;
-}
-
-.intro::after {
-  content: "";
-  display: table;
-  clear: both;
+.intro-text p:first-child {
+  margin-top: 0;
 }
 
 @media (max-width: 700px) {
-  .headshot {
-    float: none;
+  .intro {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .headshot-column img {
     width: 150px;
-    margin: 0 auto 2rem;
+    margin: 0 auto;
   }
 }
 
