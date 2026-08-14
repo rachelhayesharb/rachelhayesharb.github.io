@@ -5,10 +5,7 @@ permalink: /research/
 ---
 [Learn about current students in the Speech Acquisition Lab.](https://speechlab.utah.edu)
 
-Are you interested in joining the Speech Acquisition Lab at the University of Utah? [Prospective graduate students](https://sites.google.com/view/speech-acquisition-lab/study-multilingual-phonology-at-the-u?authuser=0)|[Current University of Utah students](https://sites.google.com/view/speech-acquisition-lab/join-the-lab?authuser=0)
-
-[Current University of Utah students interested in getting involved?
-
+Are you interested in joining the Speech Acquisition Lab at the University of Utah? [Prospective graduate students](https://sites.google.com/view/speech-acquisition-lab/study-multilingual-phonology-at-the-u?authuser=0) - [Current University of Utah students](https://sites.google.com/view/speech-acquisition-lab/join-the-lab?authuser=0)
 
 
 ## Student Theses
