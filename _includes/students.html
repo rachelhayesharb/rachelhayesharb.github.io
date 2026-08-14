@@ -1,0 +1,5 @@
+{% capture students %}
+{% include_relative ../students.md %}
+{% endcapture %}
+
+{{ students | markdownify }}
