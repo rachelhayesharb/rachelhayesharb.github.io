@@ -5,7 +5,7 @@ layout: home
 <div class="intro">
 
   <div class="headshot">
-    <img src="{{ "/assets/images/headshot.jpg" | relative_url }}" alt="Rachel Hayes-Harb">
+    <img src="{{ "/assets/img/headshot.jpg" | relative_url }}" alt="Rachel Hayes-Harb">
   </div>
 
   <div class="intro-text">
