@@ -24,7 +24,7 @@ layout: home
     </p>
 
     <p>
-      Very recently, my collaborators and I are interested in methodological issues in the study of word learning, representation, and processing by adult language learners.
+      Most recently, my collaborators and I are interested in methodological issues in the study of word learning, representation, and processing by adult language learners.
     </p>
 
   </div>
@@ -66,4 +66,3 @@ layout: home
   <em><a href="https://doi.org/doi:10.26053/0H-04GC-RQG0">Novel feature processing in children and adults</a></em></p>
 <p><strong>Zachary Rasmussen</strong> (Honors BA 2007) - 
   <em>Phonetic approximation and the interlanguage speech intelligibility benefit hypothesis: Arabic accented English</em></p>
-</div>
