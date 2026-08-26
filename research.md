@@ -11,6 +11,8 @@ The majority of my scholarship has focused on adults’ ability to establish and
 See my (recent-ish) [CV](https://rachelhayesharb.github.io/RHH_CV.pdf) for a fuller list of presentations and publications.
 
 ## Selected Recent Presentations
+Hayes-Harb, R., S. Barrios, N. Patwari & M.R. Saha. **(2026).** The influence of transcriber and task factors on the quality of ASR datasets for minoritized language varieties. _Proceedings of Meetings on Acoustics_, Vol. 61, 060002. [Study materials, data, analysis code](https://osf.io/d8xy9/), [full text](https://doi.org/10.1121/2.0002361).
+
 Hayes-Harb, R. **(2024).** Native speaker ideology and replication research. [*1st ROLE Collective Symposium*](https://rolecollective.github.io/ROLESymposium/). April 12, 2024. Invited. [Slides](https://osf.io/jacv6).
 
 Kutlu, E. & R. Hayes-Harb. **(2023).** Promoting an equitable and just linguistics through scholarly publishing and editorial practices. Penn State Research Methods Workshops for Applied Linguists. October. Invited. [Slides](https://docs.google.com/presentation/d/1njd8Z0sggfiLLFAC0ZupNHaLIcwrSLO94Cr6Hfcn0xI/edit?usp=sharing).
