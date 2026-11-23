@@ -11,8 +11,6 @@ The majority of my scholarship has focused on adults’ ability to establish and
 See my (recent-ish) [CV](https://rachelhayesharb.github.io/RHH_CV.pdf) for a fuller list of presentations and publications.
 
 ## Selected Recent Presentations
-Hayes-Harb, R., S. Barrios, N. Patwari & M.R. Saha. **(2026).** The influence of transcriber and task factors on the quality of ASR datasets for minoritized language varieties. _Proceedings of Meetings on Acoustics_, Vol. 61, 060002. [Study materials, data, analysis code](https://osf.io/d8xy9/), [full text](https://doi.org/10.1121/2.0002361).
-
 Hayes-Harb, R. **(2024).** Native speaker ideology and replication research. [*1st ROLE Collective Symposium*](https://rolecollective.github.io/ROLESymposium/). April 12, 2024. Invited. [Slides](https://osf.io/jacv6).
 
 Kutlu, E. & R. Hayes-Harb. **(2023).** Promoting an equitable and just linguistics through scholarly publishing and editorial practices. Penn State Research Methods Workshops for Applied Linguists. October. Invited. [Slides](https://docs.google.com/presentation/d/1njd8Z0sggfiLLFAC0ZupNHaLIcwrSLO94Cr6Hfcn0xI/edit?usp=sharing).
@@ -36,6 +34,10 @@ Kutlu, E., & Hayes-Harb, R. (**2023**). Towards a just and equitable applied psy
 Hayes-Harb, R., St Andre, M., & Shannahan, M. (**2020**). Assessment of undergraduate research learning outcomes: Poster presentations as artifacts. *Scholarship and Practice of Undergraduate Research*, *3*(4), 55–61. [Study materials](https://osf.io/xuhnq/), [article info](https://www.cur.org/journal-article/assessment-of-undergraduate-research-learning-outcomes-poster-presentations-as-artifacts/).
 
 ### Social cognition and adult language learning
+Barrios, S. & R. Hayes-Harb. (**2026**). Learners’ beliefs about teachers’ social characteristics influence their pronunciation preferences. *Language Teaching.* [Study materials, data, analysis code](https://osf.io/8nu2p), [preprint](https://doi.org/10.31234/osf.io/t3vus_v1), [full text](https://doi.org/10.1017/S0261444826101463).
+
+Hayes-Harb, R., S. Barrios, N. Patwari & \*Saha, M.R. (**2026**). The influence of transcriber and task factors on the quality of ASR datasets for minoritized language varieties. _Proceedings of Meetings on Acoustics_, Vol. 61, 060002. [Study materials, data, analysis code](https://osf.io/d8xy9/), [full text](https://doi.org/10.1121/2.0002361).
+
 \*Barlow, S., \*Beardsley, G., \*Bsharah, Z., \*Crofts, R., \*De La Rosa, C., \*Gutierrez, A., \*Highfill, C., \*Johnson, A. G. W., \*Johnson, C., \*Johnson, J., \*Cardenas, I. L., \*Martinez, J. T., \*Miller, N. T., \*Murray, R. M., \*Page, S., \*Petersen, T., \*Ramos, I., \*Rhodes, R., \*Vainuku, P., \*Wednesday, E. \*Farnsworth, E., Kim, S. K., & Hayes-Harb, R. (**2024**). The effects of exposure and explicit stereotypes on veracity judgments of Polish-accented English speech: A preregistered close replication and extension of Boduch-Grabka & Lev-Ari (2021). *Studies in Second Language* *Acquisition*, *46*(5), 1320–1336. [Preregistration](https://osf.io/ry8hm), [study materials, data, analysis code](https://osf.io/etgc4/), [full text](https://doi.org/10.1017/S0272263124000123).
 
 Hayes-Harb, R., Barrios, S. L., & Tripp, A. (**2022**). Whose input matters?: The influence of socially-differentiated input sources in adult Lx phonetic learning. *Journal of Second Language Pronunciation*, *8*(3), 363–388. [Stimuli](file:///Users/u0459139/Library/CloudStorage/Box-Box/CV%20&%20Bio/Stimuli), [experiment code](https://osf.io/d97bm/?view_only=7f64cdd316954a48882ae92c540a4938,), [data, analysis code](https://osf.io/w8xr4/?view_only=0578e6f5a00a466bafec21fedfc832ad), [preprint](https://doi.org/10.31234/osf.io/t78cu), [article info](https://doi.org/10.1075/jslp.21050.hay).
